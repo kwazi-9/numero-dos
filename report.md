@@ -1,0 +1,1 @@
+I created a repository named "numero-dos", created a student-info file containing my student card and name, then an html  file containg a student number
